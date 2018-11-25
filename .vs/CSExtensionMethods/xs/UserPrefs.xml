@@ -1,0 +1,20 @@
+﻿<Properties StartupConfiguration="{EE781443-581B-4DD8-94A1-E24A8DE4686E}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="DemoTests/Demo3Tests.cs">
+    <Files>
+      <File FileName="Demo3/Program.cs" Line="9" Column="13" />
+      <File FileName="Demo3/Classes.cs" Line="16" Column="28" />
+      <File FileName="Demo3/ClassExtensions.cs" Line="31" Column="26" />
+      <File FileName="DemoTests/Demo3Tests.cs" Line="13" Column="31" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Demo2 FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Demo3 FirstBuild="True" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Tests.DemoTests FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.Demo1 PreferredExecutionTarget="MonoDevelop.Default" FirstBuild="True" />
+</Properties>
